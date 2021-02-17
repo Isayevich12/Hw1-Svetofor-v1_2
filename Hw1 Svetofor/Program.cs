@@ -6,7 +6,7 @@ namespace Hw1_Svetofor
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine();    
 
             Console.WriteLine("жизненный цикл светофора\t\t\tнажми f чтоб подойти к светофору; d чтоб отойти от Светофора! ");
 
