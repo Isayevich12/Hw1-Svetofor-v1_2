@@ -6,7 +6,7 @@ namespace Hw1_Svetofor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(11);
+            Console.WriteLine(12);
             Console.WriteLine("жизненный цикл светофора\t\t\tнажми f чтоб подойти к светофору; d чтоб отойти от Светофора! ");
 
             Svetofor svetofor = new Svetofor(10, 3, 10);
