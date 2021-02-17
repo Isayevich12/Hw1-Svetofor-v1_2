@@ -5,7 +5,8 @@ namespace Hw1_Svetofor
     class Program
     {
         static void Main(string[] args)
-        {         
+        {
+            Console.WriteLine(1);    
 
             Console.WriteLine("жизненный цикл светофора\t\t\tнажми f чтоб подойти к светофору; d чтоб отойти от Светофора! ");
 
